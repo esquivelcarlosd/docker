@@ -1,0 +1,1 @@
+En este archivo se creará y ejecutará una aplicación java para correr un "hola mundo"
